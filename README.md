@@ -53,6 +53,6 @@ Dataset Link :https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-Author - Adnan Shaikh
-Email - as5200025@gmail.com 
+Author - Shruti Chaudhari
+Email - shrutichaudhari9511@gmail.com 
 
